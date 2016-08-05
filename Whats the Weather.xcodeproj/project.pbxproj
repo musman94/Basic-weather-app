@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B6099F121D5517FD003F1B1D /* sunny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B6099F111D5517FD003F1B1D /* sunny.jpg */; };
 		B6B39BC51D53E2FF0022896D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B39BC41D53E2FF0022896D /* AppDelegate.swift */; };
 		B6B39BC71D53E2FF0022896D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B39BC61D53E2FF0022896D /* ViewController.swift */; };
 		B6B39BCA1D53E2FF0022896D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6B39BC81D53E2FF0022896D /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B6099F111D5517FD003F1B1D /* sunny.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sunny.jpg; sourceTree = "<group>"; };
 		B6B39BC11D53E2FF0022896D /* Whats the Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Whats the Weather.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6B39BC41D53E2FF0022896D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B6B39BC61D53E2FF0022896D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				B6B39BC41D53E2FF0022896D /* AppDelegate.swift */,
 				B6B39BC61D53E2FF0022896D /* ViewController.swift */,
+				B6099F111D5517FD003F1B1D /* sunny.jpg */,
 				B6B39BC81D53E2FF0022896D /* Main.storyboard */,
 				B6B39BD61D53E3650022896D /* IMG_1263.jpg */,
 				B6B39BCB1D53E2FF0022896D /* Assets.xcassets */,
@@ -127,6 +130,7 @@
 			files = (
 				B6B39BCF1D53E2FF0022896D /* LaunchScreen.storyboard in Resources */,
 				B6B39BCC1D53E2FF0022896D /* Assets.xcassets in Resources */,
+				B6099F121D5517FD003F1B1D /* sunny.jpg in Resources */,
 				B6B39BCA1D53E2FF0022896D /* Main.storyboard in Resources */,
 				B6B39BD71D53E3650022896D /* IMG_1263.jpg in Resources */,
 			);
@@ -290,6 +294,7 @@
 				B6B39BD51D53E2FF0022896D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
